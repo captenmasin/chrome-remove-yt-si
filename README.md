@@ -1,10 +1,9 @@
-# Fresh Chrome Extension boilerplate (Manifest V3)
+# Remove YouTube SI Attribute
 
 ## Purpose
 
-This extension can be used as a boilerplate for creating new extensions for Chrome based browsers, like Google Chrome.
+![info](info.png)
 
 ## What it does
 
-When installed it will write something to DevTools console (F12) at the three most common events: before page load, after page load and when the user clicks the extension button on browser top bar.
-# chrome-remove-yt-si
+When installed it will automatically remove the "si=#####" paramater from the URL when you click "Share" under a YouTube video
